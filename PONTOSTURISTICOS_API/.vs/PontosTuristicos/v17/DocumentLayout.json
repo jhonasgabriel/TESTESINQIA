@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|c:\\users\\jhona\\onedrive\\documentos\\visual studio 2022\\pontosturisticos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|c:\\users\\jhona\\onedrive\\documentos\\visual studio 2022\\pontosturisticos\\data\\map\\estadomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|solutionrelative:data\\map\\estadomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|c:\\users\\jhona\\onedrive\\documentos\\visual studio 2022\\pontosturisticos\\migrations\\pontoturisticodbcontexmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|solutionrelative:migrations\\pontoturisticodbcontexmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|c:\\users\\jhona\\onedrive\\documentos\\visual studio 2022\\pontosturisticos\\migrations\\20240426151657_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|solutionrelative:migrations\\20240426151657_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|c:\\users\\jhona\\onedrive\\documentos\\visual studio 2022\\pontosturisticos\\data\\map\\pontoturisticomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|solutionrelative:data\\map\\pontoturisticomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|c:\\users\\jhona\\onedrive\\documentos\\visual studio 2022\\pontosturisticos\\data\\pontoturisticodbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|solutionrelative:data\\pontoturisticodbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|c:\\users\\jhona\\onedrive\\documentos\\visual studio 2022\\pontosturisticos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|c:\\users\\jhona\\onedrive\\documentos\\visual studio 2022\\pontosturisticos\\models\\estadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9E288-4B21-4E4C-A008-B83729560C5E}|PontosTuristicos.csproj|solutionrelative:models\\estadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T00:33:40.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstadoMap.cs",
+              "DocumentMoniker": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Data\\Map\\EstadoMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\EstadoMap.cs",
+              "ToolTip": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Data\\Map\\EstadoMap.cs",
+              "RelativeToolTip": "Data\\Map\\EstadoMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T23:06:20.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PontoTuristicoDBContexModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Migrations\\PontoTuristicoDBContexModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\PontoTuristicoDBContexModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Migrations\\PontoTuristicoDBContexModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\PontoTuristicoDBContexModelSnapshot.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:28:00.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240426151657_InitialDB.cs",
+              "DocumentMoniker": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Migrations\\20240426151657_InitialDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240426151657_InitialDB.cs",
+              "ToolTip": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Migrations\\20240426151657_InitialDB.cs",
+              "RelativeToolTip": "Migrations\\20240426151657_InitialDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:27:53.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PontoTuristicoMap.cs",
+              "DocumentMoniker": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Data\\Map\\PontoTuristicoMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\PontoTuristicoMap.cs",
+              "ToolTip": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Data\\Map\\PontoTuristicoMap.cs",
+              "RelativeToolTip": "Data\\Map\\PontoTuristicoMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:27:49.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PontoTuristicoDBContex.cs",
+              "DocumentMoniker": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Data\\PontoTuristicoDBContex.cs",
+              "RelativeDocumentMoniker": "Data\\PontoTuristicoDBContex.cs",
+              "ToolTip": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Data\\PontoTuristicoDBContex.cs",
+              "RelativeToolTip": "Data\\PontoTuristicoDBContex.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:27:45.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T18:35:36.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadoModel.cs",
+              "DocumentMoniker": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Models\\EstadoModel.cs",
+              "RelativeDocumentMoniker": "Models\\EstadoModel.cs",
+              "ToolTip": "C:\\Users\\jhona\\OneDrive\\Documentos\\Visual Studio 2022\\PontosTuristicos\\Models\\EstadoModel.cs",
+              "RelativeToolTip": "Models\\EstadoModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:03:40.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
