@@ -1,0 +1,53 @@
+			-- INSERIR DADOS NA TABELA ESTADOS --
+
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('AC', 'Acre');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('AL', 'Alagoas');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('AP', 'Amapá');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('AM', 'Amazonas');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('BA', 'Bahia');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('CE', 'Ceará');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('DF', 'Distrito Federal');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('ES', 'Espírito Santo');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('GO', 'Goiás');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('MA', 'Maranhão');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('MT', 'Mato Grosso');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('MS', 'Mato Grosso do Sul');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('MG', 'Minas Gerais');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('PA', 'Pará');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('PB', 'Paraíba');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('PR', 'Paraná');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('PE', 'Pernambuco');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('PI', 'Piauí');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('RJ', 'Rio de Janeiro');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('RN', 'Rio Grande do Norte');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('RS', 'Rio Grande do Sul');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('RO', 'Rondônia');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('RR', 'Roraima');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('SC', 'Santa Catarina');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('SP', 'São Paulo');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('SE', 'Sergipe');
+		INSERT INTO Estados (Sigla, Descricao) VALUES ('TO', 'Tocantins');
+
+
+
+		  -- INSERIR DADOS NA TABELA PONTOS TURISTICOS --
+
+	INSERT INTO PontosTuristicos (Nome, Descricao, Localizacao, Cidade, DataInclusao, IdEstado)
+	VALUES
+    ('Cristo Redentor', 'Uma das Sete Maravilhas do Mundo Moderno, oferece vista espetacular.', 'Rua Cosme Velho, Rio de Janeiro, RJ', 'Rio de Janeiro', DATEADD(DAY, -10, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 19), 
+    ('Parque Nacional do Iguaçu', 'Cataratas do Iguaçu, uma das maiores quedas d''água do mundo.', 'R. Cel. Raulino Dorneles, Foz do Iguaçu, PR', 'Foz do Iguaçu', DATEADD(DAY, -20, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 16), 
+    ('Praia de Copacabana', 'Uma das praias mais famosas do mundo, famosa pelo seu calçadão.', 'Av. Atlântica, Rio de Janeiro, RJ', 'Rio de Janeiro', DATEADD(DAY, -30, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 19), 
+    ('Pelourinho', 'Centro histórico de Salvador, com casas coloniais e igrejas históricas.', 'Pelourinho, Salvador, BA', 'Salvador', DATEADD(DAY, -40, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 5), 
+    ('Cânion do Xingó', 'Maior cânion navegável do Brasil, localizado em Sergipe.', 'SE-317, Canindé de São Francisco, SE', 'Canindé de São Francisco', DATEADD(DAY, -50, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 26), 
+    ('Praia do Leão', 'Uma das praias mais bonitas de Fernando de Noronha.', 'Fernando de Noronha, PE', 'Fernando de Noronha', DATEADD(DAY, -60, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 17), 
+    ('Serra da Capivara', 'Parque Nacional no Piauí, famoso por sítios arqueológicos com pinturas rupestres.', 'BR-020, São Raimundo Nonato, PI', 'São Raimundo Nonato', DATEADD(DAY, -70, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 18), 
+    ('Pantanal Matogrossense', 'Maior área de inundação contínua do planeta, no Mato Grosso.', 'BR-262, Poconé, MT', 'Poconé', DATEADD(DAY, -80, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 11), 
+    ('Cânion Fortaleza', 'Localizado em Cambará do Sul, Rio Grande do Sul, paisagens deslumbrantes.', 'RS-020, Cambará do Sul, RS', 'Cambará do Sul', DATEADD(DAY, -90, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 21), 
+    ('Lençóis Maranhenses', 'Parque Nacional no Maranhão, com dunas e lagoas de água doce.', 'Barreirinhas, MA', 'Barreirinhas', DATEADD(DAY, -100, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 10), 
+    ('Praia de Jericoacoara', 'Uma das praias mais famosas do Ceará, famosa pelo pôr do sol.', 'Jericoacoara, CE', 'Jericoacoara', DATEADD(DAY, -110, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 6), 
+    ('Parque Nacional da Serra dos Órgãos', 'Unidade de conservação no Rio de Janeiro, com trilhas e cachoeiras.', 'BR-116, Teresópolis, RJ', 'Teresópolis', DATEADD(DAY, -120, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 19), 
+    ('Chapada dos Veadeiros', 'Parque Nacional em Goiás, com cachoeiras, trilhas e biodiversidade.', 'Alto Paraíso de Goiás, GO', 'Alto Paraíso de Goiás', DATEADD(DAY, -130, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 9), 
+    ('Praia do Rosa', 'Praia famosa em Santa Catarina, conhecida por suas ondas ecológicas.', 'Praia do Rosa, Imbituba, SC', 'Imbituba', DATEADD(DAY, -140, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 24), 
+    ('Centro Histórico de Ouro Preto', 'Cidade histórica em Minas Gerais, com igrejas barrocas.', 'Ouro Preto, MG', 'Ouro Preto', DATEADD(DAY, -150, GETDATE()) + CAST(CAST(NEWID() AS VARBINARY) AS INT) % 20, 13); 
+
+	

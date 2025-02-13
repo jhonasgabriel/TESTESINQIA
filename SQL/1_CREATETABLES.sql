@@ -1,0 +1,18 @@
+		-- CRIAR TABELA DE ESTADOS--
+
+		CREATE TABLE Estados (
+			Id	      INT PRIMARY KEY IDENTITY,
+			Sigla     VARCHAR(2)   NOT NULL,
+			Descricao VARCHAR(100) NOT NULL);
+
+
+		-- CRIAR TABELA DE PONTOS TURISTICOS --
+
+		CREATE TABLE PontosTuristicos (
+			Id			 INT PRIMARY KEY IDENTITY,
+			Nome		 VARCHAR(100) NOT NULL,
+			Descricao	 VARCHAR(100) NOT NULL,
+			Localizacao  VARCHAR(200) NOT NULL,
+			Cidade		 VARCHAR(100) NOT NULL,
+			DataInclusao DATETIME	  NOT NULL,
+			IdEstado	 INT		  NOT NULL);
